@@ -1,0 +1,122 @@
+{
+	"sn": "facebook",
+	"login": "5565984610280",
+	"password": "aztec0066",
+	"status": 1,
+	"id": "100090718050697",
+	"name": "",
+	"amountFriends": "",
+	"screenname": "Laís Nunes",
+	"birthdate": "1983 January 29",
+	"country": "",
+	"isAvatarExists": false,
+	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1711399054.321741,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "U4jyY06Ed6GLiyzfiUNCvBft"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1711398997.310724,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "U4jyY6Xm017lg8EVN23ZSAHD"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677443854.321664,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "locale",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "pt_BR"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708375044.321772,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100090718050697"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708375044.32179,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "38%3AnJi14kXKTnFPlQ%3A2%3A1676839053%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684615544.62027,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0WXOg6hZL4bn3AJIQ.AWWQw28wwrpL28E6hb8Wj0Fh9KE.Bj8ohT.l_.AAA.0.0.Bj8op6.AWX5imrKqMc"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677444538,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1440x712"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676839692524%2C%22v%22%3A1%7D"
+		}
+	],
+	"lastEventDate": "09.03.2023 22:37 dia 01",
+	"funPages": [
+		"https://web.facebook.com/Rog%C3%A9ria-Ferreira-111896901826847"
+	]
+}
