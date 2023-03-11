@@ -1,0 +1,121 @@
+{
+	"sn": "facebook",
+	"custom": {},
+	"lastEventDate": "11.03.2023 12:04 dia 04",
+	"status": 2,
+	"id": "100090231983760",
+	"name": "",
+	"amountFriends": "",
+	"screenname": "Mariane Borges",
+	"birthdate": "1993 February 2",
+	"country": "",
+	"isAvatarExists": false,
+	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1711675231.309835,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "9b72Y2cAFY8CBpPxp-oy3-oe"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677993098,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1440x712"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1711675128.27143,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "9r72YxfohgKPrZ8qPJuB-Lv0"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677720031.309792,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "locale",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "pt_BR"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708924109.986474,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100090231983760"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708924109.986548,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "16%3AmMSZ7yEY2CJucQ%3A2%3A1677115230%3A-1%3A-1%3A%3AAcU0b1IEFXSi6aUgatXcP2DznI8GzNyPvD4KEIQGAQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685164117.400178,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0aHsie1lIhdKkseUJ.AWU1q90yDChVZlvT38pCrGwPH8M.Bj-ulO.IW.AAA.0.0.Bj-ulW.AWVonNZ47-U"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677388252097%2C%22v%22%3A1%7D"
+		}
+	],
+	"funPages": [
+		"https://web.facebook.com/profile.php?id=100090560591259"
+	]
+}
